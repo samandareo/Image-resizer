@@ -12,3 +12,10 @@ Make sure you have Python and Pillow installed:
 
 ```bash
 pip install Pillow
+```
+### Usage
+1. Clone the repository:
+
+```bash
+git clone https://github.com/your-username/Image-resizer.git
+cd Image-resizer
