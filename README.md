@@ -2,6 +2,8 @@
 
 This is a simple Python script for resizing images using the Pillow library. It helps maintain image quality while scaling.
 
+![Resize Image](https://www.bing.com/images/create/an-image-for-image-resizer-project/1-65730e6544c94abe95a0211cb9524321?id=%2b66DRSXMyAH4wdr00e%2brGQ%3d%3d&view=detailv2&idpp=genimg&idpclose=1&FORM=SYDBIC)
+
 ## Getting Started
 
 Follow the instructions below to get started with the image resizer.
