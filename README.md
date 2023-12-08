@@ -14,8 +14,8 @@ Make sure you have Python and Pillow installed:
 pip install Pillow
 ```
 ### Usage
-1. Clone the repository:
+*Replace "path/to/your/image.png" and "path/to/your/scaled_image.png" in the script (resize_image.py) with your actual file paths.
+*Feel free to customize the script for your specific needs. You can modify the new_size variable or add additional features.
 
-```bash
-git clone https://github.com/your-username/Image-resizer.git
-cd Image-resizer
+### Contributing
+If you have any improvements or suggestions, feel free to open an issue or submit a pull request.
